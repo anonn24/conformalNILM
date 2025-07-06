@@ -6,7 +6,7 @@ Datasets:
 3. UK-DALE (Domestic Appliance-Level Electricity) Dataset
 4. REFIT Dataset
 
-This repository contains all the experiments conducted for ACM e-Energy 2025. The entire code is written using JAX and Flax.
+This repository contains all the experiments conducted for ACM JCSS. The entire code is written using JAX and Flax.
 
 ### Contents:
 
